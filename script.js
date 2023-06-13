@@ -332,16 +332,3 @@ let jokesite=()=>{
     joke.innerHTML=random.joke
 }
 jokesite();
-
-
-// let index = Math.floor(Math.random() * myjokes.length - 1)
-// console.log(index)
-// joke.innerHTML = myjokes[index].joke
-
-// let SASTE_JOKES = () =>{
-//   let b = Math.floor(Math.random() * myjokes.length-1);
-//   let random = myjokes[b];
-//   let a = document.querySelector(".cont");
-//   a.innerHTML = random
-// }
-// SASTE_JOKES();
